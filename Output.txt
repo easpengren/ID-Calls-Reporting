@@ -1,0 +1,249 @@
+outintro: Hi, my name is ________ and I’m working with Collective PAC North
+Carolina to talk to voters about the upcoming election. May I please speak with
+______________?
+
+
+q1: Hi _________, are you planning to vote in the upcoming election? (mark
+answer)
+
+
+Congressional District    1    2    3    4    5     6    7    8    9    10  \
+Gender q1                                                                    
+F      No                  0    0    0    0    0     0    0    1    0    0   
+       Yes                 0    0    0    0    0     0    0    0    0    0   
+       no                 69   22   30   46   22    59   37   38   17   14   
+       yes              1318  325  626  852  370  1136  652  781  525  297   
+       yes no              1    0    1    0    0     0    0    0    1    0   
+       yesno               0    0    0    0    0     0    0    1    0    0   
+M      No                  0    0    0    0    0     0    0    0    0    0   
+       no                 43   13   16   25    9    43   26   39   22   13   
+       yes               896  219  458  576  271   799  447  590  359  204   
+       yes no              0    0    0    0    0     0    0    1    0    0   
+       yesno               1    0    0    0    0     0    0    0    0    0   
+U      no                  0    0    0    1    0     0    0    0    0    0   
+       yes                10    3    6   12    1     3    2   13    1    0   
+
+Congressional District  11   12   13  
+Gender q1                             
+F      No                0    0    0  
+       Yes               0    0    1  
+       no                2   61   18  
+       yes              38  910  276  
+       yes no            0    0    0  
+       yesno             0    0    0  
+M      No                0    0    1  
+       no                1   49   10  
+       yes              36  617  194  
+       yes no            0    0    0  
+       yesno             0    0    0  
+U      no                0    0    0  
+       yes               0    5    9  
+
+
+q1a: Okay, I understand. Is there a specific reason why you aren’t planning to
+vote?
+
+
+Congressional District                                     1   2   3   4   5   \
+Gender q1a                                                                      
+F      1 My vote doesnt count/wont make a difference       18   4   7  10   6   
+       2 I dont like the candidates                         7   2   1   5   4   
+       3 I dont know how to vote/where to go to vote        9   1   5   5   0   
+M      1 My vote doesnt count/wont make a difference        7   1   6   4   3   
+       1 My vote doesnt count/wont make a difference2 ...   1   0   0   0   0   
+       1 My vote doesnt count/wont make a difference3 ...   1   0   0   0   0   
+       2 I dont like the candidates                        12   3   1   6   0   
+       3 I dont know how to vote/where to go to vote        5   1   2   3   1   
+U      2 I dont like the candidates                         0   0   0   1   0   
+
+Congressional District                                     6   7   8   9   10  \
+Gender q1a                                                                      
+F      1 My vote doesnt count/wont make a difference       12   8  11   2   3   
+       2 I dont like the candidates                         4   4   8   7   1   
+       3 I dont know how to vote/where to go to vote        6   5   4   3   2   
+M      1 My vote doesnt count/wont make a difference       17   9   9   5   2   
+       1 My vote doesnt count/wont make a difference2 ...   0   0   1   0   0   
+       1 My vote doesnt count/wont make a difference3 ...   0   0   0   0   0   
+       2 I dont like the candidates                         8   4  10   7   2   
+       3 I dont know how to vote/where to go to vote        3   2   2   1   1   
+U      2 I dont like the candidates                         0   0   0   0   0   
+
+Congressional District                                     11  12  13  
+Gender q1a                                                             
+F      1 My vote doesnt count/wont make a difference        1  12   2  
+       2 I dont like the candidates                         0   7   3  
+       3 I dont know how to vote/where to go to vote        1   9   3  
+M      1 My vote doesnt count/wont make a difference        0  12   5  
+       1 My vote doesnt count/wont make a difference2 ...   0   0   0  
+       1 My vote doesnt count/wont make a difference3 ...   0   0   0  
+       2 I dont like the candidates                         0   6   2  
+       3 I dont know how to vote/where to go to vote        0  10   0  
+U      2 I dont like the candidates                         0   0   0  
+
+
+q2: Okay, that’s great! I’m so excited you’re planning to vote! Do you know if
+you’ll be voting by mail, voting in person early, or voting on election day?
+(mark answer)
+
+
+Congressional District                                      1    2    3    4   \
+Gender q2                                                                       
+F      voting by mail                                      314   89  182  206   
+       voting by mail voting in person early                 3    2    0    0   
+       voting by mail voting in person early voting on...    0    0    0    1   
+       voting by mail voting on election day                 0    0    1    0   
+       voting by mailvoting in person early                  0    0    0    0   
+       voting by mailvoting in person earlyvoting on e...    3    0    0    0   
+       voting by mailvoting on election day                  0    0    0    0   
+       voting in person early                              605  130  261  381   
+       voting in person early voting on election day         2    2    1    4   
+       voting in person earlyvoting on election day          4    0    2    0   
+       voting on election day                              319   79  157  195   
+M      voting by mail                                      211   71  112  156   
+       voting by mail voting in person early                 2    0    0    4   
+       voting by mail voting on election day                 0    0    0    0   
+       voting by mailvoting in person early                  2    0    0    0   
+       voting by mailvoting in person earlyvoting on e...    1    0    1    0   
+       voting by mailvoting on election day                  1    0    0    0   
+       voting in person early                              382   77  190  230   
+       voting in person early voting on election day         4    0    2    2   
+       voting in person earlyvoting on election day          4    0    1    0   
+       voting on election day                              232   64  130  156   
+U      voting by mail                                        3    2    1    3   
+       voting in person early                                1    0    1    7   
+       voting in person early voting on election day         0    0    0    2   
+       voting on election day                                4    0    3    0   
+
+Congressional District                                      5    6    7    8   \
+Gender q2                                                                       
+F      voting by mail                                       89  301  176  197   
+       voting by mail voting in person early                 0    1    0    1   
+       voting by mail voting in person early voting on...    0    0    1    0   
+       voting by mail voting on election day                 0    0    0    0   
+       voting by mailvoting in person early                  1    1    1    3   
+       voting by mailvoting in person earlyvoting on e...    0    1    0    0   
+       voting by mailvoting on election day                  0    0    0    0   
+       voting in person early                              178  505  267  336   
+       voting in person early voting on election day         1    2    2    3   
+       voting in person earlyvoting on election day          2    3    3    0   
+       voting on election day                               76  249  152  185   
+M      voting by mail                                       68  212  100  136   
+       voting by mail voting in person early                 0    1    0    0   
+       voting by mail voting on election day                 0    0    0    0   
+       voting by mailvoting in person early                  0    1    0    0   
+       voting by mailvoting in person earlyvoting on e...    0    0    0    0   
+       voting by mailvoting on election day                  0    0    0    0   
+       voting in person early                              126  318  194  247   
+       voting in person early voting on election day         0    3    0    1   
+       voting in person earlyvoting on election day          0    4    2    3   
+       voting on election day                               68  209  120  177   
+U      voting by mail                                        0    1    2    2   
+       voting in person early                                1    1    0    4   
+       voting in person early voting on election day         0    0    0    0   
+       voting on election day                                0    1    0    7   
+
+Congressional District                                      9    10  11   12  \
+Gender q2                                                                      
+F      voting by mail                                      128   73   8  259   
+       voting by mail voting in person early                 0    0   0    2   
+       voting by mail voting in person early voting on...    0    0   0    0   
+       voting by mail voting on election day                 1    0   0    0   
+       voting by mailvoting in person early                  2    0   0    0   
+       voting by mailvoting in person earlyvoting on e...    1    0   0    0   
+       voting by mailvoting on election day                  1    0   0    0   
+       voting in person early                              249  141  23  378   
+       voting in person early voting on election day         1    0   0    0   
+       voting in person earlyvoting on election day          5    0   0    3   
+       voting on election day                              115   61   5  210   
+M      voting by mail                                       82   48   9  158   
+       voting by mail voting in person early                 0    0   0    0   
+       voting by mail voting on election day                 0    0   0    0   
+       voting by mailvoting in person early                  3    0   0    0   
+       voting by mailvoting in person earlyvoting on e...    0    0   0    0   
+       voting by mailvoting on election day                  0    0   0    0   
+       voting in person early                              133   84  13  244   
+       voting in person early voting on election day         0    1   1    0   
+       voting in person earlyvoting on election day          2    0   0    1   
+       voting on election day                              119   58   9  169   
+U      voting by mail                                        0    0   0    2   
+       voting in person early                                0    0   0    0   
+       voting in person early voting on election day         0    0   0    0   
+       voting on election day                                2    0   0    3   
+
+Congressional District                                      13  
+Gender q2                                                       
+F      voting by mail                                       68  
+       voting by mail voting in person early                 1  
+       voting by mail voting in person early voting on...    0  
+       voting by mail voting on election day                 0  
+       voting by mailvoting in person early                  0  
+       voting by mailvoting in person earlyvoting on e...    0  
+       voting by mailvoting on election day                  0  
+       voting in person early                              129  
+       voting in person early voting on election day         1  
+       voting in person earlyvoting on election day          1  
+       voting on election day                               65  
+M      voting by mail                                       44  
+       voting by mail voting in person early                 0  
+       voting by mail voting on election day                 1  
+       voting by mailvoting in person early                  0  
+       voting by mailvoting in person earlyvoting on e...    0  
+       voting by mailvoting on election day                  0  
+       voting in person early                               75  
+       voting in person early voting on election day         1  
+       voting in person earlyvoting on election day          2  
+       voting on election day                               59  
+U      voting by mail                                        3  
+       voting in person early                                2  
+       voting in person early voting on election day         1  
+       voting on election day                                3  
+
+
+q2a: Have you submitted your vote by mail application? (mark answer)
+
+
+Congressional District   1   2   3    4   5    6   7   8   9   10  11   12  13
+Gender q2a                                                                    
+F      No                41  10  24   18   8   29  22  31  12   7   0   18   8
+       Yes              142  49  92  114  54  153  86  93  66  38   4  136  30
+M      No                13   8  15   14   5   22  16  17   9  10   1   15   4
+       Yes              127  41  61   80  24  103  41  65  44  24   5   73  22
+U      No                 1   1   1    0   0    0   0   1   0   0   0    2   0
+       Yes                1   1   0    3   0    0   2   0   0   0   0    0   1
+
+
+q2b: Do you know when you’re planning to vote early?
+
+
+Congressional District   1   2    3    4   5    6    7    8    9   10  11  \
+Gender q2b                                                                  
+F      No                42  10   19   21   8   36   17   26    9  15   3   
+       Yes              297  64  141  209  88  264  126  174  107  76   8   
+M      No                19   4   21   18   9   27   13   17    8  11   2   
+       Yes              186  35   87  122  56  150   81  126   69  39   7   
+U      No                 0   0    0    0   0    0    0    1    0   0   0   
+       Yes                0   0    1    5   0    0    0    1    0   0   0   
+
+Congressional District   12  13  
+Gender q2b                       
+F      No                26   5  
+       Yes              211  60  
+M      No                18   3  
+       Yes              118  36  
+U      No                 0   0  
+       Yes                0   4  
+
+
+q2c: Would you be open to voting early in person?
+
+
+Congressional District   1   2   3   4   5    6   7   8   9   10  11  12  13
+Gender q2c                                                                  
+F      No                93  23  40  58  22   78  40  64  30  23   2  60  17
+       Yes              129  37  65  86  37  106  60  72  38  23   2  81  28
+M      No                71  19  43  72  17   69  37  47  39  24   2  65  24
+       Yes               99  22  48  54  21   72  39  75  28  21   4  67  15
+U      No                 2   0   1   0   0    0   0   2   0   0   0   1   0
+       Yes                1   0   1   0   0    1   0   1   1   0   0   1   0
+
+
