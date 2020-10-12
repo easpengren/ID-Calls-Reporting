@@ -1,0 +1,54 @@
+intro: My name is ________________ and I’m calling on behalf of the Collective
+PAC. We are calling to ensure everyone interested in registering to vote through
+votetolive.org has completed the process.
+
+
+q1: Have you completed an application to register to vote by printing, signing
+and mailing to your county election office?
+
+
+State                            FL   GA   OH   SC   TX
+Ethnicity        q1                                    
+African-American No              15   24    2    9   23
+                 No,Not voting    1    0    0    0    0
+                 Not voting       2    3    1    0    2
+                 Yes            159  296   80  140  256
+Asian            No               0    1    0    0    1
+                 Not voting       0    0    0    0    1
+                 Yes             13   12    4    1   17
+Caucasian        No              17    7   17   11   34
+                 No,Not voting    0    0    0    0    1
+                 Not voting      10    1    4    2   10
+                 Yes            212  209  233  139  622
+Hispanic         No               9    2    0    0   40
+                 Not voting       0    0    0    0    3
+                 Yes             65   22    5    6  138
+Native American  No               0    0    0    0    1
+                 Yes              1    1    0    0    1
+Other            Yes              9   16    1    4    0
+Uncoded          No               2    0    2    0    3
+                 Not voting       0    0    1    0    1
+                 Yes              6    7    9    2   28
+
+
+q2: Have you received your voter registration certificate?
+
+
+State                     FL   GA   OH   SC   TX
+Ethnicity        q2                             
+African-American No       25   46    8   16   55
+                 Yes     121  222   60  117  178
+                 Yes,No    0    1    0    0    0
+Asian            No        0    0    0    0    1
+                 Yes      10   12    4    1   13
+Caucasian        No       36   28   45   16   92
+                 Yes     171  160  176  113  462
+Hispanic         No       11    2    0    0   44
+                 Yes      53   20    3    6  100
+Native American  Yes       1    1    0    0    1
+Other            No        0    1    0    1    0
+                 Yes       6   14    1    3    0
+Uncoded          No        1    1    2    0    6
+                 Yes       3    5    7    1   22
+
+
