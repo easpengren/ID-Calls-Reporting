@@ -5,7 +5,7 @@ import pandas as pd
 from tabulate import tabulate
 def pprint_df(dframe) -> object:
     print(tabulate(dframe, headers='keys', tablefmt="plain", showindex=False), file=text_file)
-output_file = 'report'
+output_file = 'GA_Report'
 from civis_sql import CD_CONTACT_TYPE_QUERY
 from civis_sql import CD_PENETRATION_QUERY
 from civis_sql import (
@@ -31,11 +31,12 @@ with open(output_file+".txt", "w") as text_file:
     print('\n', file=text_file)
     sql = SD_PENETRATION_QUERY
     df = civis.io.read_civis_sql(sql, "TMC", use_pandas=True)
-    print('\n', file=text_file)
     pprint_df(df)
+    print('\n', file=text_file)
     sql = HD_CONTACT_TYPE_QUERY
     df = civis.io.read_civis_sql(sql, "TMC", use_pandas=True)
     pprint_df(df)
+    print('\n', file=text_file)
     sql = HD_PENETRATION_QUERY
     df = civis.io.read_civis_sql(sql, "TMC", use_pandas=True)
     pprint_df(df)

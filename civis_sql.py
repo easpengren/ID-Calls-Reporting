@@ -7,7 +7,7 @@ SELECT cd,
   sum(case when status_name = 'VoteEarly' then 1 end) as vote_early,
   sum(case when status_name = 'Call Back' then 1 end) as call_back,
   sum(case when status_name = 'VoteByMail' then 1 end) as vote_by_mail,
-  sum(case when status_name = 'Yes - Will Support' then 1 end) as yes_will_support,
+  sum(case when status_name = 'Yes - Will Support' then 1 end) as contacted,
   sum(case when status_name = 'VoteInPerson' then 1 end) as vote_in_person,
   sum(case when status_name = 'Undecided' then 1 end) as undecided,
   sum(case when status_name = 'Not Interested' then 1 end) as not_interested
@@ -112,3 +112,4 @@ update hd_calls set percent_dialed = (attempted/total)*100;
 select * from hd_calls
 order by hd;
 """
+
